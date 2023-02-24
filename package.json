@@ -1,0 +1,11 @@
+{
+  "name": "codemods",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jscodeshift": "^0.14.0",
+    "prettier": "^2.8.4"
+  }
+}
